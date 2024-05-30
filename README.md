@@ -26,7 +26,7 @@ Here are some of my favorite projects:
   - Improved model performance by 10% using oversampling and ensemble techniques.
 ![Anti Money Laundering Model Screenshot](https://link-to-project1-screenshot.com)
 
-### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/CNN-Malaria-classification-)
+### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/Credit-scoring-Project)
 - **Description:** Built a logistic regression-based model to predict loan outcomes.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
@@ -35,7 +35,7 @@ Here are some of my favorite projects:
   - Identified key factors influencing credit risk through thorough statistical analysis.
 ![Credit Risk Assessment Model Screenshot](https://link-to-project2-screenshot.com)
 
-### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/malaria-detection)
+### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/CNN-Malaria-classification-)
 - **Description:** Created a convolutional neural network to detect malaria in cell images.
 - **Technologies:** Python, TensorFlow, Keras, OpenCV.
 - **Achievements:**
