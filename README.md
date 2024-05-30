@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate with a strong foun
 ## My Projects
 Here are some of my favorite projects:
 
-### [Anti Money Laundering Model](https://github.com/yourusername/anti-money-laundering)
+### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/anti-money-laundering)
 - **Description:** Developed a machine learning model to detect money laundering transactions.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
@@ -26,7 +26,7 @@ Here are some of my favorite projects:
   - Improved model performance by 10% using oversampling and ensemble techniques.
 ![Anti Money Laundering Model Screenshot](https://link-to-project1-screenshot.com)
 
-### [Credit Risk Assessment Model](https://github.com/yourusername/credit-risk-assessment)
+### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/credit-risk-assessment)
 - **Description:** Built a logistic regression-based model to predict loan outcomes.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
@@ -35,7 +35,7 @@ Here are some of my favorite projects:
   - Identified key factors influencing credit risk through thorough statistical analysis.
 ![Credit Risk Assessment Model Screenshot](https://link-to-project2-screenshot.com)
 
-### [Malaria Detection Model Using CNN](https://github.com/yourusername/malaria-detection)
+### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/malaria-detection)
 - **Description:** Created a convolutional neural network to detect malaria in cell images.
 - **Technologies:** Python, TensorFlow, Keras, OpenCV.
 - **Achievements:**
