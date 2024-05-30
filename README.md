@@ -85,5 +85,5 @@ Sep 2018 – April 2023
 - **Data Visualization** (Kaggle)
 
 ## GitHub Stats
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
 
