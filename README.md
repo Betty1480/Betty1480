@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a Computer Science graduate with a strong foun
 ## My Projects
 Here are some of my favorite projects:
 
-### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/anti-money-laundering)
+### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
 - **Description:** Developed a machine learning model to detect money laundering transactions.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
