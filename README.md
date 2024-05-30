@@ -1,5 +1,5 @@
 
-![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Data%20Science%20and%20AI%20(3).png)
+![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Data%20Science%20and%20AI%20(5).png)
 
 ## Hi there, I'm Kevin Mugo 👋
 
