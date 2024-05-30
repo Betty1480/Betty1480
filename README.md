@@ -26,7 +26,7 @@ Here are some of my favorite projects:
   - Improved model performance by 10% using oversampling and ensemble techniques.
 ![Anti Money Laundering Model Screenshot](https://link-to-project1-screenshot.com)
 
-### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/credit-risk-assessment)
+### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/Credit-scoring-Project)
 - **Description:** Built a logistic regression-based model to predict loan outcomes.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
