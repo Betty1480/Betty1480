@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Kevin Mugo 👋
 
-![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Banner.mp4)
+![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Data%20Science%20and%20AI%20(1).png)
 
 Welcome to my GitHub profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
