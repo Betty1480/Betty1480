@@ -42,7 +42,7 @@ Here are some of my favorite projects:
   - Achieved 94% accuracy rate in detecting malaria.
   - Contributed to healthcare solutions with accurate disease prediction.
   - Improved healthcare outcomes by 30% through accurate malaria diagnoses.
-![Malaria Detection Model Screenshot](https://link-to-project3-screenshot.com)
+![Malaria Detection Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Malaria.png)
 
 ## Skills
 - **Languages:** Python, SQL.
