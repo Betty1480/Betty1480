@@ -33,7 +33,7 @@ Here are some of my favorite projects:
   - Achieved 82% accuracy rate in predicting loan outcomes.
   - Enhanced data quality by 30% through handling missing values and data standardization.
   - Identified key factors influencing credit risk through thorough statistical analysis.
-![Credit Risk Assessment Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/credit.png)
+![Credit Risk Assessment Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/credit1.png)
 
 ### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/CNN-Malaria-classification-)
 - **Description:** Created a convolutional neural network to detect malaria in cell images.
