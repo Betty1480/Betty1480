@@ -5,7 +5,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
+Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
 ## About Me
 - 🔭 I’m currently working on enhancing my machine learning models for real-world applications.
