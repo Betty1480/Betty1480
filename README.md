@@ -42,6 +42,8 @@ Here are some of my favorite projects:
   - Achieved 94% accuracy rate in detecting malaria.
   - Contributed to healthcare solutions with accurate disease prediction.
   - Improved healthcare outcomes by 30% through accurate malaria diagnoses.
+![Credit Risk Assessment Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/malaria.png)
+
 <img src="https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/credit1.png" alt="Credit Risk Assessment Model Screenshot">
 
 
