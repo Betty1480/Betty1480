@@ -24,7 +24,7 @@ Here are some of my favorite projects:
   - Achieved 100% accuracy rate with synthetic dataset.
   - Minimized false positives by 10% through feature engineering and hyperparameter tuning.
   - Improved model performance by 10% using oversampling and ensemble techniques.
-![Anti Money Laundering Model Screenshot](https://link-to-project1-screenshot.com)
+![Anti Money Laundering Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/AML.png)
 
 ### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/Credit-scoring-Project)
 - **Description:** Built a logistic regression-based model to predict loan outcomes.
