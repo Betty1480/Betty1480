@@ -22,7 +22,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 ## [![Resume/CV](https://img.shields.io/badge/Resume/CV-Click%20Here-blue)](https://drive.google.com/file/d/1a52soqhpEx7r8GbTWIRp7zrS1NzcnbZd/view)
 
 
-## About Me
+## :man_technologist: About Me
 - 🔭 I’m currently working on enhancing my machine learning models for real-world applications.
 - 🌱 I’m currently learning advanced deep learning techniques and artificial intelligence at ALX.
 - 💬 Ask me about data analysis, machine learning, and data visualization and artificial intelligence.
