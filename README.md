@@ -7,6 +7,9 @@
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/your-username.your-repo-name/visits)
+
+
 ## About Me
 - 🔭 I’m currently working on enhancing my machine learning models for real-world applications.
 - 🌱 I’m currently learning advanced deep learning techniques and artificial intelligence at ALX.
