@@ -13,13 +13,12 @@
 ...
 ![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Data%20Science%20and%20AI%20(5).png)
 
-## Hi there, I'm Kevin Mugo 👋
 
-<h1>
+<h2>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ,
   I'm Kevin Mugo
-</h1>
+</h2>
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
