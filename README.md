@@ -53,30 +53,7 @@ Here are some of my favorite projects:
 - **Tools:** Jupyter Notebooks ,Power BI, Git, Excel.
 - **Specializations:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistical Analysis.
 
-## Education
-**Egerton University**  
-Bachelor of Science in Computer Science  
-Sep 2018 – Oct 2023
 
-**Relevant Coursework:**
-- Data Mining, Artificial Intelligence, Database Management, Statistics and Probability, Calculus, Linear Algebra, Data Structures and Algorithms, Cloud Computing, Computer Security, Software Engineering, Operating Systems, Ethics in Computing.
-
-## Work Experience
-**Ministry of Agriculture and Livestock Development**  
-ICT Student Intern  
-May 2023 – July 2023
-- Participated in data collection, entry, and analysis procedures, enhancing technical support efficiency by 98%.
-- Provided first-line technical support, improving query resolution efficiency by 20%.
-- Increased user proficiency by 25% by supporting computer equipment, MS Dynamics, and MS Office applications.
-- Reduced system downtime by 30% through maintenance and troubleshooting of ICT equipment.
-- Enhanced system and network stability, achieving a 25% reduction in downtime.
-
-## Activities
-**Egerton University Computer Science Students Association (EUCOSSA)**  
-Member  
-Sep 2018 – April 2023
-- Participated in weekly meetups to enhance understanding of current and emerging technologies in computing.
-- Advertised 10+ quarterly networking events with 100+ participants within the university.
 
 ## Certifications & Training
 - **Deep Learning** (Kaggle)
