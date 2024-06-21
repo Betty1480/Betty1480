@@ -13,6 +13,8 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 - 💬 Ask me about data analysis, machine learning, and data visualization and artificial intelligence.
 - 📫 How to reach me: [mugokevin900@gmail.com](mailto:mugokevin900@gmail.com)
 - ⚡ Fun fact: I love solving complex problems and turning data into actionable insights.
+  
+  [![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue)](https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view?usp=sharing)
 
 ## My Projects
 Here are some of my favorite projects:
