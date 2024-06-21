@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data science, machine learning, and data analysis. I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Kevin-Mugo.Kevin-Mugo/visits)
+![HitCount](http://hits.dwyl.com/Profile Name/Repo Name.svg)
 
 ## [![Resume/CV](https://img.shields.io/badge/Resume/CV-Click%20Here-blue)](https://drive.google.com/file/d/1a52soqhpEx7r8GbTWIRp7zrS1NzcnbZd/view)
 
