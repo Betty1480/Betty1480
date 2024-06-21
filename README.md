@@ -64,7 +64,7 @@ Here are some of my favorite projects:
 
 
 ## Skills
-- **Languages:** Python, SQL.
+- **Languages:** Python, SQL , R .
 - **Frameworks and Libraries:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn.
 - **Tools:** Jupyter Notebooks ,Power BI, Git, Excel.
 - **Specializations:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistical Analysis.
