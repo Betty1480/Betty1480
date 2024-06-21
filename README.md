@@ -71,5 +71,6 @@ Here are some of my favorite projects:
 
 ## GitHub Stats
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
+
 <img src="https://komarev.com/ghpvc/?username=Kevin-Mugo&style=flat-square&color=blue" alt=""/>
 
