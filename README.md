@@ -85,8 +85,8 @@ Here are some of my favorite projects:
 - **Data Visualization** (Kaggle)
 
 ## :fire: My Stats :
-## GitHub Stats
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Kevin-Mugo&style=flat-square&color=blue" alt=""/>
 
