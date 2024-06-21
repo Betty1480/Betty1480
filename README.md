@@ -84,6 +84,7 @@ Here are some of my favorite projects:
 - **Python Programming** (Kaggle)
 - **Data Visualization** (Kaggle)
 
+## :fire: My Stats :
 ## GitHub Stats
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
 
