@@ -14,7 +14,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 - 📫 How to reach me: [mugokevin900@gmail.com](mailto:mugokevin900@gmail.com)
 - ⚡ Fun fact: I love solving complex problems and turning data into actionable insights.
   
-## [![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue)](https://drive.google.com/file/d/1a52soqhpEx7r8GbTWIRp7zrS1NzcnbZd/view)
+## [![Resume/CV](https://img.shields.io/badge/Resume-Click%20Here-blue)](https://drive.google.com/file/d/1a52soqhpEx7r8GbTWIRp7zrS1NzcnbZd/view)
 
 ## My Projects
 Here are some of my favorite projects:
