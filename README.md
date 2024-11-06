@@ -10,10 +10,8 @@
   </a>
 </div>
 
-<div id="banner" align="center">
 ...
 ![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1651).png)
-</div>
 
 <h2>
   Hi there
