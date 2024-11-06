@@ -34,8 +34,8 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 
 ## My Projects
 Here are some of my favorite projects:
-### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
-- **Description:** Created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
+### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix)
+- **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
 - **Technologies:** PowerBI , Excel.
 - **Achievements:**
   - Visualized survey responses from 630 data professionals, highlighting key trends in salary, job satisfaction, and industry challenges.
