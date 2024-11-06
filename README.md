@@ -36,12 +36,13 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 ## My Projects
 Here are some of my favorite projects:
 ### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
-- **Description:** Developed a machine learning model to detect money laundering transactions.
-- **Technologies:** Python, Scikit-learn, Pandas, NumPy.
+- **Description:** Created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
+- **Technologies:** PowerBI , Excel.
 - **Achievements:**
-  - Achieved 100% accuracy rate with synthetic dataset.
-  - Minimized false positives by 10% through feature engineering and hyperparameter tuning.
-  - Improved model performance by 10% using oversampling and ensemble techniques.
+  - Visualized survey responses from 630 data professionals, highlighting key trends in salary, job satisfaction, and industry challenges.
+  - Enabled easy comparison of salaries across roles like Data Scientist, Data Engineer, and Data Analyst..
+  - Identified Python as the most popular programming language among respondents, with over 400 votes.
+  - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers..
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
 ### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
