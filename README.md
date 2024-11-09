@@ -36,12 +36,21 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 Here are some of my favorite projects:
 ### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix)
 - **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
-- **Technologies:** PowerBI , Excel.
+- **Technologies:** PowerBI .
 - **Achievements:**
   - Visualized survey responses from 630 data professionals, highlighting key trends in salary, job satisfaction, and industry challenges.
   - Enabled easy comparison of salaries across roles like Data Scientist, Data Engineer, and Data Analyst..
   - Identified Python as the most popular programming language among respondents, with over 400 votes.
   - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers..
+![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
+
+### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix)
+- **Description:** Cleaned the dataset, created pivot tables, and developed an interactive Excel dashboard to analyze bike purchasing trends across demographics such as income levels, age, commute distance, and region.
+- **Technologies:** Excel, Pivot Tables, Data Visualization.
+- **Achievements:**
+  - Analyzed income levels by gender and age brackets, revealing key purchasing patterns.
+  - Examined commute distance preferences to identify target markets.
+  - Enabled dynamic filtering by marital status, education, and region for more detailed insights.
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
 ### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
