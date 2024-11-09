@@ -46,7 +46,7 @@ Here are some of my favorite projects:
     
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
-### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com) 
+### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://1drv.ms/x/c/3ac3ef37014b10a0/Ee2u2gM8MKJDpx_ZYtclKKYBK9SubLXRTxI0y2G2GuG8Bg?e=2nJka3) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://1drv.ms/x/c/3ac3ef37014b10a0/Ee2u2gM8MKJDpx_ZYtclKKYBK9SubLXRTxI0y2G2GuG8Bg?e=2nJka3) 
 - **Description:** Cleaned the dataset, created pivot tables, and developed an interactive Excel dashboard to analyze bike purchasing trends across demographics such as income levels, age, commute distance, and region.
 - **Technologies:** Excel, Pivot Tables, Data Visualization.
 - **Achievements:**
