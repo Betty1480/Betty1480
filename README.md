@@ -45,13 +45,14 @@ Here are some of my favorite projects:
   - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers..
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
-### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix)
+### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com)
 - **Description:** Cleaned the dataset, created pivot tables, and developed an interactive Excel dashboard to analyze bike purchasing trends across demographics such as income levels, age, commute distance, and region.
 - **Technologies:** Excel, Pivot Tables, Data Visualization.
 - **Achievements:**
   - Analyzed income levels by gender and age brackets, revealing key purchasing patterns.
   - Examined commute distance preferences to identify target markets.
   - Enabled dynamic filtering by marital status, education, and region for more detailed insights.
+    
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1660).png)
 
 ### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
