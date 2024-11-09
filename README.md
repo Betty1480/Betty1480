@@ -42,7 +42,8 @@ Here are some of my favorite projects:
   - Visualized survey responses from 630 data professionals, highlighting key trends in salary, job satisfaction, and industry challenges.
   - Enabled easy comparison of salaries across roles like Data Scientist, Data Engineer, and Data Analyst..
   - Identified Python as the most popular programming language among respondents, with over 400 votes.
-  - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers..
+  - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers.
+    
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
 ### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com) 
