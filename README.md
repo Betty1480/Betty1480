@@ -35,7 +35,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 ## My Projects
 Here are some of my favorite projects:
 
-### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix)
+### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) (https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com)
 - **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
 - **Technologies:** PowerBI .
 - **Achievements:**
@@ -45,7 +45,7 @@ Here are some of my favorite projects:
   - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers..
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
 
-### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com) [!(https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com)
+### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://your-project-url.com) 
 - **Description:** Cleaned the dataset, created pivot tables, and developed an interactive Excel dashboard to analyze bike purchasing trends across demographics such as income levels, age, commute distance, and region.
 - **Technologies:** Excel, Pivot Tables, Data Visualization.
 - **Achievements:**
