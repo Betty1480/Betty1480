@@ -51,7 +51,7 @@ Here are some of my favorite projects:
   - Analyzed income levels by gender and age brackets, revealing key purchasing patterns.
   - Examined commute distance preferences to identify target markets.
   - Enabled dynamic filtering by marital status, education, and region for more detailed insights.
-![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
+![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1660).png)
 
 ### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
 - **Description:** Developed a machine learning model to detect money laundering transactions.
