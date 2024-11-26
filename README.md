@@ -21,7 +21,7 @@
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data analysis and data administration . I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
-## [![Resume/CV](https://img.shields.io/badge/Resume/CV-Click%20Here-blue)](https://drive.google.com/file/d/1E4fdkjBfoKu6E-LnvvK9CFVxeVEgsFFY/view?usp=sharing)
+## [![Resume/CV](https://img.shields.io/badge/Resume/CV-Click%20Here-blue)](https://drive.google.com/file/d/1ek0ayiUlgaOp8EVb2N2xcYqePZxzSj2R/view?usp=drive_link)
 
 
 ## :man_technologist: About Me
