@@ -28,7 +28,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 - 🔭 I’m currently working on data analysis and administration projects for real-world applications.
 - 🌱 I’m currently learning machine learning and artificial intelligence .
 - 💬 Ask me about data analysis, machine learning, and data visualization and artificial intelligence.
-- 📫 How to reach me: [mugokevin900@gmail.com](mailto:mugokevin900@gmail.com)
+- 📫 How to reach me: [mugokevin900@gmail.com](mailto:saitotibetty99@gmail.com)
   
   
 
