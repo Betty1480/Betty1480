@@ -11,12 +11,12 @@
 </div>
 
 ...
-![Profile Banner](https://www.pinterest.com/pin/139963500916065683/)
+![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/videoframe_11729.png)
 
 <h2>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ,
-  I'm Kevin Mugo.
+  I'm Betty saitoti.
 </h2>
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data analysis and data administration . I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
