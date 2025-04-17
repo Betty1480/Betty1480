@@ -65,13 +65,11 @@ comprehensive overview of global terrorism trends and patterns...
   - Improved model performance by 10% using oversampling and ensemble techniques.
 ![Anti Money Laundering Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/AML.png)
 
-### [Credit Risk Assessment Model](https://github.com/Kevin-Mugo/Credit-scoring-Project)
-- **Description:** Built a logistic regression-based model to predict loan outcomes.
-- **Technologies:** Python, Scikit-learn, Pandas, NumPy.
-- **Achievements:**
-  - Achieved 82% accuracy rate in predicting loan outcomes.
-  - Enhanced data quality by 30% through handling missing values and data standardization.
-  - Identified key factors influencing credit risk through thorough statistical analysis.
+### [Credit Risk Assessment Model](#)
+- **Description:**YOUTUBE STREAMER ANALYSIS.
+- **Technologies:** Python: Utilized Pandas, NumPy, Matplotlib, and Seaborn.
+**KEY FINDINGS AND SUMMARY**
+This document analyzes the top 1000 YouTube streamers' statistics from July 2018, using Python and various libraries for data manipulation and visualization. Key findings reveal that Entertainment, Gaming, and Lifestyle are the most popular categories among top streamers, and a positive correlation exists between the number of subscribers and the number of likes or comments. The report also discloses that audience preferences for content categories vary across different countries, and the average metrics for these top streamers include approximately 500,000 subscribers, 1,000,000 visits, and 50,000 likes.
 ![Credit Risk Assessment Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/credit1.png)
 
 ### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/CNN-Malaria-classification-)
