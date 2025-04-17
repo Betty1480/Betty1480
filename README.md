@@ -11,7 +11,7 @@
 </div>
 
 ...
-![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/videoframe_11729.png)
+![Profile Banner](https://github.com/Betty1480/Betty1480/blob/main/videoframe_11729.png)
 
 <h2>
   Hi there
