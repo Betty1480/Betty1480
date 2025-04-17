@@ -28,14 +28,14 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 - 🔭 I’m currently working on data analysis and administration projects for real-world applications.
 - 🌱 I’m currently learning machine learning and artificial intelligence .
 - 💬 Ask me about data analysis, machine learning, and data visualization and artificial intelligence.
-- 📫 How to reach me: [mugokevin900@gmail.com](mailto:saitotibetty99@gmail.com)
+- 📫 How to reach me: [saitotibetty99@gmail.com](mailto:saitotibetty99@gmail.com)
   
   
 
 ## My Projects
 Here are some of my favorite projects:
 
-### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) 
+### [Career Landscape of Data Professionals: A Power BI Analysis]() [![View Project](https://believed-roadrunner-a2f.notion.site/TASK-2-POWER-BI-DASHBOARD-CREATION-5ebaa149cf6548468ca350250db2a308)](https://believed-roadrunner-a2f.notion.site/TASK-2-POWER-BI-DASHBOARD-CREATION-5ebaa149cf6548468ca350250db2a308) 
 - **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
 - **Technologies:** PowerBI .
 - **Achievements:**
