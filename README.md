@@ -36,13 +36,13 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 Here are some of my favorite projects:
 
 ### [Career Landscape of Data Professionals: A Power BI Analysis]() [![View Project](https://believed-roadrunner-a2f.notion.site/TASK-2-POWER-BI-DASHBOARD-CREATION-5ebaa149cf6548468ca350250db2a308)](https://believed-roadrunner-a2f.notion.site/TASK-2-POWER-BI-DASHBOARD-CREATION-5ebaa149cf6548468ca350250db2a308) 
-- **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
+- **Description:** The Terrorism Database contains information about terrorist attacks worldwide. It includes
+details such as the date, location, attack type, weapons used, number of casualties, and
+responsible groups. Your task is to create a Power BI dashboard that provides a
+comprehensive overview of global terrorism trends and patterns...
 - **Technologies:** PowerBI .
-- **Achievements:**
-  - Visualized survey responses from 630 data professionals, highlighting key trends in salary, job satisfaction, and industry challenges.
-  - Enabled easy comparison of salaries across roles like Data Scientist, Data Engineer, and Data Analyst..
-  - Identified Python as the most popular programming language among respondents, with over 400 votes.
-  - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers.
+- **Summary:**
+  - The analysis indicates that bombings using explosives are the most common and effective methods used by terrorist groups, particularly in the Middle East and South Asia. Private citizens and property are the primary targets, and groups like the Taliban and Islamic State are major perpetrators. The success rates of terrorist attacks have shown significant variations over the years, with notable peaks in 2000 and 2020..
     
 ![  ](https://github.com/Betty1480/Betty1480/blob/main/terror%20report.PNG.png)
 
