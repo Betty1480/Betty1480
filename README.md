@@ -56,14 +56,14 @@ comprehensive overview of global terrorism trends and patterns...
     
 ![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1660).png)
 
-### [Anti Money Laundering Model](https://github.com/Kevin-Mugo/Anti-money-laundering-AML-)
-- **Description:** Developed a machine learning model to detect money laundering transactions.
+### [House Analysis Ml Model](https://colab.research.google.com/github/Betty1480/House-prediction/blob/main/Untitled4.ipynb)
+- **Description:** Developed a machine learning model to detect the trends in housing prices.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy.
 - **Achievements:**
   - Achieved 100% accuracy rate with synthetic dataset.
   - Minimized false positives by 10% through feature engineering and hyperparameter tuning.
   - Improved model performance by 10% using oversampling and ensemble techniques.
-![Anti Money Laundering Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/AML.png)
+![House prices Prediction](https://github.com/Betty1480/Betty1480/blob/main/house_pic.png)
 
 ### [Credit Risk Assessment Model](#)
 - **Description:**YOUTUBE STREAMER ANALYSIS.
@@ -72,39 +72,38 @@ comprehensive overview of global terrorism trends and patterns...
 This document analyzes the top 1000 YouTube streamers' statistics from July 2018, using Python and various libraries for data manipulation and visualization. Key findings reveal that Entertainment, Gaming, and Lifestyle are the most popular categories among top streamers, and a positive correlation exists between the number of subscribers and the number of likes or comments. The report also discloses that audience preferences for content categories vary across different countries, and the average metrics for these top streamers include approximately 500,000 subscribers, 1,000,000 visits, and 50,000 likes.
 ![Data Exploration and Analysis:](https://github.com/Betty1480/Betty1480/blob/main/colab.PNG.png)
 
-### [Malaria Detection Model Using CNN](https://github.com/Kevin-Mugo/CNN-Malaria-classification-)
-- **Description:** Created a convolutional neural network to detect malaria in cell images.
-- **Technologies:** Python, TensorFlow, Keras, OpenCV.
+### [company-analysis-with-sql](https://github.com/Betty1480/company-analysis-with-sql.git)
+- **Description:**  tasked with analyzing the employee data of a company to gain insights into various aspects --of its workforce.
+- **Technologies:** MySQL, Mysql Workbench.
 - **Achievements:**
-  - Achieved 94% accuracy rate in detecting malaria.
-  - Contributed to healthcare solutions with accurate disease prediction.
-  - Improved healthcare outcomes by 30% through accurate malaria diagnoses.
-![Credit Risk Assessment Model Screenshot](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Malaria.png)
+  - Extracted actionable workforce insights by writing complex SQL queries to analyze departmental structures, salary distributions, and employee hierarchies.
+
+  - Improved decision-making processes through data-driven analysis of employee roles, compensation trends, and managerial spans using structured query techniques.
+
+  - Demonstrated end-to-end data handling by transforming raw HR data into meaningful visual and statistical insights, aligning business objectives with workforce analytics.
+
+  - Optimized HR analytics capabilities by identifying key workforce patterns and potential inefficiencies across departments through comprehensive SQL-based reporting.
+![  Workbench Filter Screenshots](#)
 
 
 
 
 ## Skills
 - **Languages:** Python, SQL , R .
-- **Frameworks and Libraries:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn.
+- **Frameworks and Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn.
 - **Tools:** Jupyter Notebooks ,Power BI, Git, Excel.
-- **Specializations:** Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistical Analysis.
+- **Specializations:** Machine Learning, Data Analysis, Data Visualization, Statistical Analysis.
 
 
 
 ## Certifications & Training
-- **Deep Learning** (Kaggle)
-- **SQL and Relational Databases** (IBM)
-- **Data Science Methodology** (IBM)
-- **Machine Learning** (Kaggle)
+- **Tech IT Girls** (Data analysis)
+- **PWC** (Power Bi)
+- **Cisco Networking** (CCNA)
+- **Airtificial Intelligence and Algorithim** (Kabarak University)
 - **Data Analysis with Python** (FreeCodeCamp)
-- **Big Data** (IBM)
-- **Python Programming** (Kaggle)
-- **Data Visualization** (Kaggle)
 
-## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-Mugo&theme=dark&background=000000)](https://git.io/streak-stats)
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
+
 
 <div id="visits" align="left">
 <img src="https://komarev.com/ghpvc/?username=Kevin-Mugo&style=flat-square&color=blue" alt=""/>
