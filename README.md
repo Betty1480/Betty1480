@@ -11,7 +11,7 @@
 </div>
 
 ...
-![Profile Banner](https://pin.it/6SsEcCmPh)
+![Profile Banner](https://www.pinterest.com/pin/139963500916065683/)
 
 <h2>
   Hi there
