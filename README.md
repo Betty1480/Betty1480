@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kevin-mugo-712b341bb/">
+  <a href="https://www.linkedin.com/in/betty-saitoti-67a884292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/AnzyKenya">
+  <a href="https://x.com/betty saitoti">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 ...
-![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1651).png)
+![Profile Banner](https://pin.it/6SsEcCmPh)
 
 <h2>
   Hi there
