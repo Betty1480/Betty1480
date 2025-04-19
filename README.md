@@ -65,6 +65,29 @@ comprehensive overview of global terrorism trends and patterns...
   - Improved model performance by 10% using oversampling and ensemble techniques.
 ![House prices Prediction](https://github.com/Betty1480/Betty1480/blob/main/house_pic.png)
 
+
+### [Database Design & Programming with SQL](https://github.com/Betty1480/Database-Design-Programming-with-SQL.git)
+📚 Bookstore Database System – MySQL Project
+As part of a hands-on group project, I designed and implemented a fully functional MySQL database system for a fictional bookstore. The system efficiently manages structured data related to books, authors, customers, orders, and shipping.
+
+Key contributions included:
+
+Database Design: Modeled complex relationships using ER diagrams (Draw.io) and optimized table schemas.
+
+SQL Development: Created multiple interrelated tables (e.g., book, author, cust_order, order_status) and implemented relationships using appropriate data types and constraints.
+
+User Management: Configured user roles and permissions to enhance database security.
+
+Data Querying: Executed queries to retrieve insights and test data integrity.
+
+Tools Used: MySQL, Draw.io
+Skills Gained: Relational DB design, SQL scripting, data normalization, user access control
+
+📍 This project showcases my ability to create real-world data solutions using relational databases.
+![House prices Prediction](https://github.com/Betty1480/Betty1480/blob/main/house_pic.png)
+
+
+
 ### [YOUTUBE STREAMER ANALYSIS](#)
 - **Description:** YOUTUBE STREAMER ANALYSIS.
 - **Technologies:** Python: Utilized Pandas, NumPy, Matplotlib, and Seaborn.
