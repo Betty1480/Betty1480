@@ -84,7 +84,7 @@ Tools Used: MySQL, Draw.io
 Skills Gained: Relational DB design, SQL scripting, data normalization, user access control
 
 📍 This project showcases my ability to create real-world data solutions using relational databases.
-![House prices Prediction](https://github.com/Betty1480/Betty1480/blob/main/house_pic.png)
+![Databasee ERD](https://github.com/Betty1480/Betty1480/blob/main/Betty-projo.png)
 
 
 
