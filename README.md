@@ -19,7 +19,7 @@
   I'm Betty saitoti.
 </h2>
 
-Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data analysis and data administration . I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
+Welcome to my profile! I'm a Computer Science graduate with a strong foundation  in data analysis and data administration . I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
 
 ## [![Resume/CV](https://img.shields.io/badge/Resume/CV-Click%20Here-blue)](https://drive.google.com/file/d/12_1w9pTcxC8zV9kv5DIQQqqn5wBMZX0O/view?usp=drivesdk)
 
