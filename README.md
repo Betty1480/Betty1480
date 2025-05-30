@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e471xe61ko8g0tnpeg75f6w3hdp5nk69gtmi3dyoxoj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/betty-saitoti-67a884292/">
